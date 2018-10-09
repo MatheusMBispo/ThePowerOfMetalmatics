@@ -1,0 +1,2 @@
+# The-Power-of-Metalmatics
+ From the beginning, mathematics serves as the primary basis for computing, helping man break boundaries that were once insurmountable. Over time, computing has not only helped solve major problems but also began to charm people!    And it was through this existent artistic vein in computing added to the beauty that we already found in mathematical functions that was borned the computer graphics!
